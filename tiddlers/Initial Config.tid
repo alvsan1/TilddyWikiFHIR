@@ -1,6 +1,6 @@
 created: 20190127041011739
 modified: 20190127041011739
-rdfstorage: http://192.168.43.15:8080/rdf4j-server/repositories/fhir
+rdfstorage: http://192.168.1.15:8080/rdf4j-server/repositories/fhir
 initialConcept: fhir:DomainResource
 sparqll1: $:/linekedhealth/fhir_l1V2
 sparqll2: $:/linekedhealth/fhir_l2V2
